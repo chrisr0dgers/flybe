@@ -13,10 +13,8 @@ body {
 
 .bgColor--purple {
   background-color: #59358C; }
-
 .bgColor--saffron {
   background-color: #EFC031; }
-
 .bgColor--grey {
   background-color: #C4C4C4; }
 
@@ -25,15 +23,16 @@ body {
 
 .fz--h1 {
   font-size: 3.438rem; }
-
 .fz--h2 {
   font-size: 2.813rem; }
-
 .fz--h3 {
   font-size: 2.375rem; }
-
+.fz--h4 {
+  font-size: 1.75rem; }
 .fz--lgBody {
   font-size: 1.375rem; }
+.fz--smBody {
+  font-size: 0.9375rem; }
 
 .largeImage h3 {
   left: 70px;
@@ -65,15 +64,19 @@ body {
 .staff img {
   max-width: fit-content; }
 
+.accordion .card {
+  border-radius: 0px;
+  border: 0; }
 .accordion .card-header {
   padding: 0; }
   .accordion .card-header #accordbtn {
+    border-radius: 10px;
     background-color: #000000;
     width: 100%;
     height: 100%;
     text-align: left;
     text-transform: uppercase;
-    padding: 16px 19px; }
+    padding: 10px 19px; }
     .accordion .card-header #accordbtn img {
       transform: rotate(180deg); }
     .accordion .card-header #accordbtn.collapsed {
@@ -82,6 +85,21 @@ body {
         transform: rotate(0deg); }
     .accordion .card-header #accordbtn:hover {
       background-color: #000000; }
+
+.contactForm input, .contactForm textarea {
+  width: 100%;
+  border: 0;
+  margin-bottom: 10px;
+  padding: 10px 13px; }
+.contactForm .wpcf7-submit {
+  background-color: transparent;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  color: #ffffff;
+  max-width: 140px; }
+  .contactForm .wpcf7-submit:hover {
+    background-color: #ffffff;
+    color: #59358C; }
 
 .exampleBlock {
   width: 100%;
@@ -145,21 +163,24 @@ h6 {
 @media screen and (min-width: 641px) {
   h1 {
     font-size: 3.125rem; }
+
   h2 {
     font-size: 2.5rem; }
+
   h3 {
     font-size: 1.875rem; } }
-
 @media screen and (min-width: 787px) {
   h1 {
     font-size: 4.25rem; }
+
   h2 {
     font-size: 3.25rem; }
+
   h3 {
     font-size: 2.375rem; }
+
   h4 {
     font-size: 1.75rem; } }
-
 .flybe button {
   outline: none;
   position: relative;
@@ -180,12 +201,10 @@ h6 {
   border: 2px solid #524195;
   background: transparent;
   color: #524195; }
-
 .flybe .primary {
   font-size: 1.25rem;
   border-radius: 1rem;
   height: 60px; }
-
 .flybe .primary {
   border: none;
   color: #111625;
@@ -194,19 +213,16 @@ h6 {
   background: -webkit-linear-gradient(left, #f7a11d 0%, #efc031 100%);
   background: linear-gradient(to right, #f7a11d 0%, #efc031 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7a11d', endColorstr='#efc031',GradientType=1 ); }
-
 .flybe button:hover {
   -webkit-box-shadow: 0px 5px 20px -1px rgba(17, 22, 37, 0.5);
   -moz-box-shadow: 0px 5px 20px -1px rgba(17, 22, 37, 0.5);
   box-shadow: 0px 5px 20px -1px rgba(17, 22, 37, 0.5);
   top: -3px; }
-
 .flybe button:active {
   -webkit-box-shadow: 0px 2px 10px -1px rgba(17, 22, 37, 0.5);
   -moz-box-shadow: 0px 2px 10px -1px rgba(17, 22, 37, 0.5);
   box-shadow: 0px 2px 10px -1px rgba(17, 22, 37, 0.5);
   top: -1px; }
-
 .flybe button:disabled {
   opacity: 0.5;
   pointer-events: none; }
@@ -214,87 +230,122 @@ h6 {
 @media (min-width: 576px) {
   .w-sm-25 {
     width: 25% !important; }
+
   .w-sm-50 {
     width: 50% !important; }
+
   .w-sm-75 {
     width: 75% !important; }
+
   .w-sm-100 {
     width: 100% !important; }
+
   .w-sm-auto {
     width: auto !important; }
+
   .h-sm-25 {
     height: 25% !important; }
+
   .h-sm-50 {
     height: 50% !important; }
+
   .h-sm-75 {
     height: 75% !important; }
+
   .h-sm-100 {
     height: 100% !important; }
+
   .h-sm-auto {
     height: auto !important; } }
-
 @media (min-width: 768px) {
   .w-md-25 {
     width: 25% !important; }
+
   .w-md-50 {
     width: 50% !important; }
+
   .w-md-75 {
     width: 75% !important; }
+
   .w-md-100 {
     width: 100% !important; }
+
   .w-md-auto {
     width: auto !important; }
+
   .h-md-25 {
     height: 25% !important; }
+
   .h-md-50 {
     height: 50% !important; }
+
   .h-md-75 {
     height: 75% !important; }
+
   .h-md-100 {
     height: 100% !important; }
+
   .h-md-auto {
     height: auto !important; } }
-
 @media (min-width: 992px) {
   .w-lg-25 {
     width: 25% !important; }
+
   .w-lg-50 {
     width: 50% !important; }
+
   .w-lg-75 {
     width: 75% !important; }
+
   .w-lg-100 {
     width: 100% !important; }
+
   .w-lg-auto {
     width: auto !important; }
+
   .h-lg-25 {
     height: 25% !important; }
+
   .h-lg-50 {
     height: 50% !important; }
+
   .h-lg-75 {
     height: 75% !important; }
+
   .h-lg-100 {
     height: 100% !important; }
+
   .h-lg-auto {
     height: auto !important; } }
-
 @media (min-width: 1200px) {
   .w-xl-25 {
     width: 25% !important; }
+
   .w-xl-50 {
     width: 50% !important; }
+
   .w-xl-75 {
     width: 75% !important; }
+
   .w-xl-100 {
     width: 100% !important; }
+
   .w-xl-auto {
     width: auto !important; }
+
   .h-xl-25 {
     height: 25% !important; }
+
   .h-xl-50 {
     height: 50% !important; }
+
   .h-xl-75 {
     height: 75% !important; }
+
   .h-xl-100 {
     height: 100% !important; }
+
   .h-xl-auto {
     height: auto !important; } }
+
+/*# sourceMappingURL=custom-style.css.map */
