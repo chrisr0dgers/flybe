@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){a("#accordbtn").hasClass("collapsed")||a(".card-header").addClass("bbox")});/* end of as page load scripts */

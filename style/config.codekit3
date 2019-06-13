@@ -4,477 +4,39 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "D0D77EE2-ED09-4BA8-9AD7-8BED38680FEE"
+		"uuidString": "54E36CC5-885A-4D2C-A2C2-104EA76C5D0B"
 		}
 	],
 "creatorBuild": "28905",
 "files": {
-	"/about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/about.html",
-		"oF": 0
-		},
-	"/conferences.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/conferences.html",
-		"oF": 0
-		},
-	"/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/contact.html",
-		"oF": 0
-		},
-	"/fonts/amadeus-booking-flow.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/fonts/amadeus-booking-flow.eot",
-		"oF": 0
-		},
-	"/fonts/amadeus-booking-flow.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/fonts/amadeus-booking-flow.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/fonts/amadeus-booking-flow.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/fonts/amadeus-booking-flow.ttf",
-		"oF": 0
-		},
-	"/fonts/amadeus-booking-flow.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/fonts/amadeus-booking-flow.woff",
-		"oF": 0
-		},
-	"/hospitality.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/hospitality.html",
-		"oF": 0
-		},
-	"/images/about-1.jpg": {
-		"ft": 16384,
-		"iS": 137857,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-2.jpg": {
-		"ft": 16384,
-		"iS": 288138,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-3.jpg": {
-		"ft": 16384,
-		"iS": 196053,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-header.jpg": {
-		"ft": 16384,
-		"iS": 341852,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-header.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/boardrooms.png": {
-		"ft": 32768,
-		"iS": 1145462,
-		"oA": 0,
-		"oAP": "/images/boardrooms.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/conference-header.jpg": {
-		"ft": 16384,
-		"iS": 415933,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/conference-header.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/conferences.jpg": {
-		"ft": 16384,
-		"iS": 164894,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/conferences.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/header.jpg": {
-		"ft": 16384,
-		"iS": 514853,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/header.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/hospitality-header.jpg": {
-		"ft": 16384,
-		"iS": 222561,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/hospitality-header.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/hospitality.jpg": {
-		"ft": 16384,
-		"iS": 124203,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/hospitality.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/icons/accordian-arrow.png": {
-		"ft": 32768,
-		"iS": 198,
-		"oA": 0,
-		"oAP": "/images/icons/accordian-arrow.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/disabled.png": {
-		"ft": 32768,
-		"iS": 3791,
-		"oA": 0,
-		"oAP": "/images/icons/disabled.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/food.png": {
-		"ft": 32768,
-		"iS": 4372,
-		"oA": 0,
-		"oAP": "/images/icons/food.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/hotel.png": {
-		"ft": 32768,
-		"iS": 1808,
-		"oA": 0,
-		"oAP": "/images/icons/hotel.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/meetings.png": {
-		"ft": 32768,
-		"iS": 4685,
-		"oA": 0,
-		"oAP": "/images/icons/meetings.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/parking.png": {
-		"ft": 32768,
-		"iS": 1878,
-		"oA": 0,
-		"oAP": "/images/icons/parking.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/wifi.png": {
-		"ft": 32768,
-		"iS": 2662,
-		"oA": 0,
-		"oAP": "/images/icons/wifi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/lg-conf-suite.jpg": {
-		"ft": 16384,
-		"iS": 98152,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/lg-conf-suite.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/lg-meeting-room.jpg": {
-		"ft": 16384,
-		"iS": 115163,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/lg-meeting-room.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/purple-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/images/purple-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/images/staff/emily-corbett.png": {
-		"ft": 32768,
-		"iS": 69439,
-		"oA": 0,
-		"oAP": "/images/staff/emily-corbett.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/staff/kelly-bramford.png": {
-		"ft": 32768,
-		"iS": 81230,
-		"oA": 0,
-		"oAP": "/images/staff/kelly-bramford.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/staff/kelsey-grimes.png": {
-		"ft": 32768,
-		"iS": 77587,
-		"oA": 0,
-		"oAP": "/images/staff/kelsey-grimes.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/staff/michael-anderson.png": {
-		"ft": 32768,
-		"iS": 69877,
-		"oA": 0,
-		"oAP": "/images/staff/michael-anderson.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/staff/nicola-thomas.png": {
-		"ft": 32768,
-		"iS": 87069,
-		"oA": 0,
-		"oAP": "/images/staff/nicola-thomas.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/staff/simon-waite.png": {
-		"ft": 32768,
-		"iS": 77160,
-		"oA": 0,
-		"oAP": "/images/staff/simon-waite.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/staff/tina-stefanowicz.png": {
-		"ft": 32768,
-		"iS": 75229,
-		"oA": 0,
-		"oAP": "/images/staff/tina-stefanowicz.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/standard-room.jpg": {
-		"ft": 16384,
-		"iS": 94475,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/standard-room.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/trade.jpg": {
-		"ft": 16384,
-		"iS": 165399,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/trade.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/white-logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/images/white-logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/index.html",
-		"oF": 0
-		},
-	"/js/bootstrap.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/bootstrap.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/js/script-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/script-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/js/script.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/script-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/media-hub.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/media-hub.html",
-		"oF": 0
-		},
-	"/privacy-policy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/privacy-policy.html",
-		"oF": 0
-		},
-	"/style/bootstrap.min.css": {
+	"/bootstrap.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/style/bootstrap.min-min.css",
+		"oAP": "/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/style/custom-style.css": {
+	"/custom-style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/style/custom-style-min.css",
+		"oAP": "/custom-style-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/style/custom-style.css.map": {
+	"/custom-style.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/style/custom-style.css.map",
+		"oAP": "/custom-style.css.map",
 		"oF": 0
 		},
-	"/style/custom-style.scss": {
+	"/custom-style.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -482,18 +44,18 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/style/custom-style.css",
+		"oAP": "/custom-style.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/style/icons.css": {
+	"/icons.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/style/icons-min.css",
+		"oAP": "/icons-min.css",
 		"oF": 0,
 		"oS": 3
 		}
@@ -503,10 +65,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 582042526,
-	"displayValue": "flybe",
+	"creationDate": 582113427.19774401,
+	"displayValue": "style",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-soon",
+	"iconImageName": "meme-facepalm",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -944,7 +506,7 @@
 			},
 		"camelcase": {
 			"active": 0,
-			"optionString": "{'properties': 'always'}"
+			"optionString": "{'properties': 'always', 'ignoreDestructuring': false}"
 			},
 		"capitalized-comments": {
 			"active": 0,
@@ -1020,11 +582,11 @@
 			},
 		"func-name-matching": {
 			"active": 0,
-			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			"optionString": "'always', {'considerPropertyDescriptor': false, 'includeCommonJSModuleExports': false}"
 			},
 		"func-names": {
 			"active": 0,
-			"optionString": "'always'"
+			"optionString": "'always', {'generators': 'always'}"
 			},
 		"func-style": {
 			"active": 0,
@@ -1536,7 +1098,7 @@
 			},
 		"no-self-assign": {
 			"active": 1,
-			"optionString": "{'props': false}"
+			"optionString": "{'props': true}"
 			},
 		"no-self-compare": {
 			"active": 0,
@@ -1696,7 +1258,7 @@
 			},
 		"object-curly-newline": {
 			"active": 0,
-			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			"optionString": "{'ObjectExpression': {'multiline': true, 'consistent': true}, 'ObjectPattern': {'multiline': true, 'consistent': true}}"
 			},
 		"object-curly-spacing": {
 			"active": 0,
@@ -1704,7 +1266,7 @@
 			},
 		"object-property-newline": {
 			"active": 0,
-			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
 			},
 		"object-shorthand": {
 			"active": 0,
@@ -2363,7 +1925,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
+		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -2558,7 +2120,7 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
@@ -2574,7 +2136,7 @@
 			"flagValue": -1
 			},
 		"dead_code": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"directives": {
@@ -2602,7 +2164,7 @@
 			"flagValue": -1
 			},
 		"hoist_funs": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"hoist_props": {
@@ -2646,7 +2208,7 @@
 			"flagValue": -1
 			},
 		"keep_fargs": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"keep_fnames": {
@@ -2786,7 +2348,7 @@
 			"flagValue": -1
 			}
 		},
-	"uglifyReservedNamesString": "$",
+	"uglifyReservedNamesString": "$,exports,require",
 	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
