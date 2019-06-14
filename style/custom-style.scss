@@ -94,6 +94,20 @@ body{
   font-size: 0.6667rem;
 }
 
+.active{
+  .nav-link{
+    background-color: #fff;
+    border-radius: 10px;
+    color: $purple!important;
+  }
+}
+
+.footer{
+  a{
+    color: inherit;
+  }
+}
+
 //Homepage END
 
 
@@ -165,7 +179,6 @@ body{
     }
   }
 }
-
 
 //Hospitality end
 
@@ -490,6 +503,21 @@ h4 {
 //Media Queries
 
 @media (max-width: 991px) {
+  #navbarResponsive{
+    margin-top: 10px;
+  }
+
+  .mapHalfer{
+    iframe{
+      height: 580px;
+      margin-bottom: -8px;
+    }
+  }
+
+  .nav-item {
+    text-align: center;
+  }
+
   .header{
     &--corner{
       position: relative;
