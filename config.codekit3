@@ -145,6 +145,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/contact-header.jpg": {
+		"ft": 16384,
+		"iS": 303821,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/contact-header.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/header.jpg": {
 		"ft": 16384,
 		"iS": 514853,
@@ -272,6 +283,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/lg-meeting-room.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/mediahub-header.jpg": {
+		"ft": 16384,
+		"iS": 268846,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/mediahub-header.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

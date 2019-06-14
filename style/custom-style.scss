@@ -10,7 +10,7 @@ $saffron: #EFC031;
 body{
     // font-size: 100%;
     color:#5D5D5D;
-    font-size: 1rem;
+    font-size: 22px;
     font-family: century-gothic, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -40,22 +40,31 @@ body{
 
 .fz{
   &--h1{
-    font-size: 3.438rem;//55px
+    @extend h1;//55px
   }
   &--h2{
-    font-size:  2.813rem;//45px
+    @extend h2;//45px
   }
   &--h3{
-    font-size: 2.375rem;//35px
+    @extend h3;//35px
   }
   &--h4{
-    font-size: 1.75rem;
+    @extend h4;
+  }
+  &--h5{
+    @extend h5;
   }
   &--lgBody{
     font-size: 1.375rem;
   }
   &--smBody{
-    font-size: 0.9375rem;
+    font-size: 0.875rem;
+  }
+}
+
+.fw{
+  &-b{
+    font-weight: 700;
   }
 }
 
@@ -74,11 +83,15 @@ body{
     top: 0;
     left: 15px;
     width: 700px;
-    min-height: 200px;
+    min-height: 220px;
     -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
     clip-path: polygon(0 0, 0 100%, 100% 0%, 100% 0%, 75% 0);
     background: $purple;
   }
+}
+
+.nav-link{
+  font-size: 0.6667rem;
 }
 
 //Homepage END
@@ -94,7 +107,7 @@ body{
       border: 1px solid $purple;
       height: 100%;
       position: relative;
-      h4{
+      h5{
         &:last-of-type{
           position: absolute;
           bottom: 0;
@@ -218,6 +231,7 @@ html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  font-size: 24px;
 }
 *, *:before, *:after {
   -webkit-box-sizing: inherit;
@@ -229,21 +243,21 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Comfortaa', cursive;
   font-weight:700;
   margin: 4rem 0 2rem;
-  color: #111625;
+  // color: #111625;
   padding: 0
 }
 
 h1 {
-  font-size: 3.438rem;//55px
+  font-size: 2.5rem;
 }
 h2 {
-  font-size:  2.813rem;//45px
+  font-size: 2rem;
 }
 h3 {
-  font-size: 2.375rem;//35px
+  font-size: 1.75rem;
 }
 h4 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 h5 {
   font-size: 1.25rem;
@@ -285,7 +299,7 @@ h4 {
     font-size: 1rem;
     line-height: 1;
     min-height: 40px;
-    padding: 0.75rem 1.25rem 0.5rem;
+    padding: 0.55rem 1rem 0.5rem;
     border-radius: 0.5rem;
     margin: 1rem 1rem;
     font-family: 'Comfortaa', cursive;
@@ -470,3 +484,28 @@ h4 {
   }
 }
 //Extend width utility end
+
+
+
+//Media Queries
+
+@media (max-width: 991px) {
+  .header{
+    &--corner{
+      position: relative;
+      width: 100%;
+      left: 0;
+      clip-path: none;
+      min-height: unset;
+      h4{
+        margin-top: 0!important;
+        text-align: center;
+        padding: 10px 0;
+        margin-left: 0;
+        br{
+          display: none;
+        }
+      }
+    }
+  }
+}
