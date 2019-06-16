@@ -211,6 +211,8 @@ h6 {
   font-size: 1.25rem;
   border-radius: 1rem;
   height: 60px; }
+  .flybe .primary p {
+    margin-bottom: 0; }
 .flybe .primary {
   border: none;
   color: #111625;
@@ -354,6 +356,9 @@ h6 {
   .h-xl-auto {
     height: auto !important; } }
 @media (max-width: 991px) {
+  .rooms_single_content {
+    height: auto; }
+
   #navbarResponsive {
     margin-top: 10px; }
 
@@ -377,5 +382,22 @@ h6 {
       margin-left: 0; }
       .header--corner h4 br, .header--corner .fz--h4 br {
         display: none; } }
+@media (max-width: 600px) {
+  h5, .fz--h5 {
+    font-size: 1rem; } }
+@media (max-width: 470px) {
+  .confbtn {
+    height: auto; } }
+@media (max-width: 400px) {
+  .flybe .primary {
+    margin: 1rem 0.3rem; }
+    .flybe .primary p {
+      font-size: 0.87rem; }
+
+  h4, .fz--h4 {
+    font-size: 1.2rem; }
+
+  h5, .fz--h5 {
+    font-size: 0.8rem; } }
 
 /*# sourceMappingURL=custom-style.css.map */
